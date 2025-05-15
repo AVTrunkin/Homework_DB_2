@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d82bd78-4d93-484d-ba50-bed2a6d38535" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Phyton db 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Phyton db 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework_DB_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_DB_2.py" afterDir="false" />
     </list>
@@ -36,6 +36,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Homework_DB_2.executor": "Run",
+    "Python.models.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"

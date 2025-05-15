@@ -2,7 +2,8 @@ import json
 import sqlalchemy
 from sqlalchemy.orm import sessionmaker
 from models import create_tables, Publisher, Shop, Book, Stock, Sale
-DSN = 'postgresql://postgres:postgres@localhost:5432/homworkdb2'
+
+DSN = 'postgresql://postgres:Qwedsa66!@localhost:5432/homworkdb2'
 engine = sqlalchemy.create_engine(DSN)
 create_tables(engine)
 Session = sessionmaker(bind=engine)
